@@ -18,9 +18,6 @@ Equipe: kauany, Luiz e Pedro Bartsch
 Trabalho: controle de estoque de uma farmácia
 
 Requisitos funcionais  :
-Login de usuários
-Inserir conta com e-mail e senha
-Criar uma conta
 Colocar retirar e alterar os medicamentos do estoque
 Atualizar o estoque
 Colocar e alterar preços dos produtos
