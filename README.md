@@ -25,6 +25,7 @@ Permitir a retirada e inclusão de medicamentos do “carrinho”
 Ele deve ser integrado com um banco de dados	
 Deve realizar a soma e (caso tenha) aplicar uma
 O sistema deve permitir a venda de produtos, registrando a quantidade vendida, preço de venda e atualizando o estoque automaticamente.
+o sistema deve emitir uma nota fiscal no final de uma compra
 
 
 
